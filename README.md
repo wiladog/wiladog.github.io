@@ -1,4 +1,4 @@
-#Wiladog Blog
+## Wiladog Blog
 
 ###[View Live Hux Blog &rarr;](https://wiladog.github.io/)
 
