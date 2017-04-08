@@ -5,6 +5,7 @@ subtitle:	"Hellow world"
 date:	2017-04-07 18:15:00
 author:	"wiladog"
 header-img:	"img/post-bg-2015.jpg"
+catalog: true
 tags:
     - OS
     - JS
