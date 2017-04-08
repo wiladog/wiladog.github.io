@@ -1,13 +1,14 @@
 ---
 layout:	post
 title:	"Hello Wiladog"
-Subtitle:	"Hellow world"
-Date:	2017-04-07 18:15:00
-Author:	"wiladog"
-Header-img:	"img/post-bg-2015.jpg"
-Tags:
+subtitle:	"Hellow world"
+date:	2017-04-07 18:15:00
+author:	"wiladog"
+header-img:	"img/post-bg-2015.jpg"
+tags:
     - OS
-
+    - JS
+    - PHP
 ---
 
 
