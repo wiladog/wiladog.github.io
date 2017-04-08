@@ -1,13 +1,15 @@
 ## Wiladog Blog
 
-###[View Live Hux Blog &rarr;](https://wiladog.github.io/)
+### [View Live Blog &rarr;](https://wiladog.github.io/)
 
+## 说明
 
+网站的图文均为原作者创做，暂未删除，稍后会更新，请见谅！
 
 ## License
 
 Apache License 2.0.
-Copyright (c) 2015-2016 Huxpro
+Copyright (c) 2017-2018 wiladog
 
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
+This blog is derived from [Huxpro Jekyll Themes](https://github.com/Huxpro/huxpro.github.io/)
+Copyright (c) 2015-2016 Huxpro
