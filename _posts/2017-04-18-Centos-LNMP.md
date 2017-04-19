@@ -2,9 +2,9 @@
 layout: post
 title: "CentOS 7 编译搭建 LNMP 环境"
 subtitle: "CentOS LNMP 环境配置"
-date: 2017-04-19 16:22:33
+date: 2017-04-18 16:22:33
 author: "wiladog"
-header-img: "images/628624730b77470bc8aa44e74ca3155a.png"
+header-img: "images/1491801770126.jpg"
 catalog: true
 tags:
  - LANMP
@@ -15,7 +15,7 @@ tags:
 
 ## 安装前准备
 
-1. 更新yum源
+更新yum源
 
 ```shell
 cd /etc/yum.repos.d # 进入源目录
@@ -30,13 +30,31 @@ yum makecache
 
 ```
 
-2. 下载软件包
+下载软件包
 
-我们将所有的软件包下载放到 */usr/local/src* 目录中
+我们将所有的软件包下载放到 `/usr/local/src`目录中
+
+|                   软件名称                   |    说明    |
+| :--------------------------------------: | :------: |
+| [nginx-1.12.0](http://nginx.org/download/nginx-1.12.0.tar.gz) |  当前稳定版本  |
+| [php-7.1.4.tar.gz](http://php.net/get/php-7.1.4.tar.gz/from/a/mirror) | php7提高性能 |
+|                                          |          |
+|                                          |          |
+|                                          |          |
+|                                          |          |
+|                                          |          |
+|                                          |          |
+|                                          |          |
+
+西大坨村地西大坨村在
 
 
 
+![1491801770126](http://on5fp58qk.bkt.clouddn.com/1491801786390.jpg)
 
+
+
+这个只可以有
 
 > sdfsdfsdfsdf
 
